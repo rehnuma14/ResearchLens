@@ -1,6 +1,10 @@
 # 🔬 ResearchLens
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://researchlens-eyx9aykauqodtg4c8xrymk.streamlit.app/)
+
 **ResearchLens** is an interactive Python and Streamlit application built to help students and researchers explore research hypotheses, analyze topic momentum, and visualize academic vs. real-world interest trends.
+
+🔗 **Live Visualization:** [researchlens.streamlit.app](https://researchlens-eyx9aykauqodtg4c8xrymk.streamlit.app/)
 
 ---
 
@@ -26,7 +30,7 @@
 ## 📁 Project Structure
 
 ```text
-upresearchLens/
+ResearchLens/
 ├── src/
 │   └── engine.py          # Core corpus matching, validation, and trend aggregation logic
 ├── app.py                 # Main Streamlit application entry point
