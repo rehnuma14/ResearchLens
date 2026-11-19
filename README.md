@@ -1,6 +1,6 @@
-# 🔬 upresearchLens
+# 🔬 ResearchLens
 
-**upresearchLens** is an interactive Python and Streamlit application built to help students and researchers explore research hypotheses, analyze topic momentum, and visualize academic vs. real-world interest trends.
+**ResearchLens** is an interactive Python and Streamlit application built to help students and researchers explore research hypotheses, analyze topic momentum, and visualize academic vs. real-world interest trends.
 
 ---
 
