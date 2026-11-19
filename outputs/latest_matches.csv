@@ -1,0 +1,4 @@
+id,title,year,similarity,method,limitations,source_link
+13,Explainable AI for Bangla Fake News Using LIME and SHAP,2024,0.4868992259176865,"BanglaBERT, LIME, SHAP",Feature attribution explanations can produce inconsistent local tokens.,https://doi.org/10.1016/j.eswa.2024.123512
+3,Fake News Detection in Bangla Social Media using Machine Learning,2021,0.11331811019749619,"SVM, Random Forest, TF-IDF",Limited to a small dataset of 2000 posts; lacks contextual semantics.,https://ieeexplore.ieee.org/document/9392654
+4,Deep Learning for Bangla Misinformation Detection on Online Portals,2022,0.0848870858385509,"BiLSTM, Word2Vec",Fails on short clickbait headlines and non-standard colloquial dialects.,https://link.springer.com/chapter/10.1007/978-981-19-1111-8_32
